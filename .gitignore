@@ -1,6 +1,9 @@
 /.metadata/
+/.metadata
 /.class/
+/*.class
 /.classpath/
+/.classpath
 /.recommenders/
 ReplyChallenge2021/output/
 ReplyChallenge/output/
